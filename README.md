@@ -17,7 +17,7 @@
 
 ## 🏛️ Visión General
 
-Ingeniero de software con una sólida base técnica y mentalidad administrativa. Mi enfoque combina el diseño de arquitecturas de software eficientes con la planificación estructurada de proyectos y la alineación tecnológica con los objetivos de negocio. 
+Informático con una sólida base técnica y mentalidad administrativa. Mi enfoque combina el diseño de arquitecturas de software eficientes con la planificación estructurada de proyectos y la alineación tecnológica con los objetivos de negocio. 
 
 Capacidad demostrada para traducir requerimientos técnicos complejos en soluciones operativas claras, manteniendo un rigor estricto en el ciclo de vida del desarrollo.
 
